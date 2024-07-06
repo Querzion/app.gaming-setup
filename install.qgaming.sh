@@ -69,9 +69,5 @@ install_dependencies
 download_and_build
 create_desktop_icon
 
-# Remove the script folder
-cd ..
-rm -r app.gaming-setup
-
 
 echo "Installation complete. You can find the application in the Applications menu."
